@@ -1,7 +1,7 @@
 {
     "__creditos": {
         "__Contribuidor": "https://github.com/jeffersonalionco",
-        "__Criador": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY"
+        "__Criador": "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC"
     },
     "plugins": {
         "antiarab": {
@@ -155,7 +155,7 @@
                 "*🍥 • Nombre total d'épisodes :*",
                 "*🎈 • Durée :*",
                 "*✨ • Basé sur :*",
-                "*💫 • Première :*",
+                "*👑 • Première :*",
                 "*🎗 • Terminé :*",
                 "*🎐 • Popularité :*",
                 "*🎏 • Favoris :*",
@@ -196,7 +196,7 @@
             "texto3": [
                 "🎬 • Nom :",
                 "🍿 • URL :",
-                "💫 • Bloqueur de publicités recommandé :",
+                "👑 • Bloqueur de publicités recommandé :",
                 "Block This",
                 "⛨ • Lien :"
             ]
@@ -795,7 +795,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Entrez un lien YouTube.",
-            "texto2": "🤴🏻 Téléchargé par BrunoSobrino & Readz Aleizn 🤖"
+            "texto2": "🤴🏻 Téléchargé par KillzN & KillzN 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Entrez la commande plus le lien de la vidéo YouTube*",
@@ -852,8 +852,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "[❗] Utilisez cette commande directement sur le numéro principal du Bot.",
             "texto2": "[❗] Démarrage du processus de suppression de tous les fichiers de session, sauf le fichier creds.json...",
-            "texto3": "[❗] Le dossier MysticSession n'existe pas ou est vide.",
-            "texto4": "[❗] Aucun fichier à supprimer n'a été trouvé dans le dossier MysticSession.",
+            "texto3": "[❗] Le dossier KillzNSession n'existe pas ou est vide.",
+            "texto4": "[❗] Aucun fichier à supprimer n'a été trouvé dans le dossier KillzNSession.",
             "texto5": [
                 "[❗] Ont été supprimés",
                 "fichiers de session, sauf le fichier creds.json."
@@ -1882,7 +1882,7 @@
                 "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER",
                 "À VOTRE COMPTE CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRONT L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. JE VOUS INVITE À L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRO..."
             ],
-            "texto4": "Salut !! Bonjour, je me présente, je suis Readz Aleizn et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
+            "texto4": "Salut !! Bonjour, je me présente, je suis KillzN et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
             "texto5": "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER VOTRE NUMÉRO CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRON..."
         },
         "gc_admins": {
@@ -2104,15 +2104,15 @@
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par Readz Aleizn, vous serez Readz Aleizn.",
-            "texto3": "Vous agirez en tant que Bot WhatsApp créé par Readz Aleizn, vous serez Readz Aleizn.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par KillzN, vous serez KillzN.",
+            "texto3": "Vous agirez en tant que Bot WhatsApp créé par KillzN, vous serez KillzN.",
             "texto4": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par Readz Aleizn, vous serez Readz Aleizn.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par KillzN, vous serez KillzN.",
             "texto3": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_clima": {
@@ -2313,20 +2313,20 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ Le numéro de mon créateur est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 1 est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 2 est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 3 est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 4 est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 5 est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 6 est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 7 est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 8 est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 9 est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 10 est wa.me/551992621601*",
-                "*—◉ Le contact du collaborateur 11 est https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY*",
-                "*—◉ Le numéro du collaborateur 12 est wa.me/51992621601*",
-                "*—◉ Le numéro du collaborateur 13 au Brésil est wa.me/51992621601*"
+                "*—◉ Le numéro de mon créateur est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 1 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 2 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 3 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 4 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 5 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 6 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 7 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 8 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 9 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 10 est wa.me/556983073328*",
+                "*—◉ Le contact du collaborateur 11 est https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC*",
+                "*—◉ Le numéro du collaborateur 12 est wa.me/56983073328*",
+                "*—◉ Le numéro du collaborateur 13 au Brésil est wa.me/56983073328*"
             ],
             "texto2": [
                 "「 Bonjour le Monde 」",
@@ -2342,19 +2342,19 @@
                 " ➤ CLÉ :",
                 "646180192175788481",
                 "➤ BANQUE : STP",
-                "➤ BÉNÉFICIAIRE : Bruno Sobrino",
+                "➤ BÉNÉFICIAIRE : KillzN",
                 "➤ CONCEPT : SOUTIEN",
                 "➤ PAYPAL : https://www.paypal.me/TheShadowBrokers133",
                 "👉🏻 CONTACTEZ-NOUS EN CAS DE BESOIN",
                 "PLUS DE DONNÉES ET POUR REMERCIER",
-                "wa.me/51992621601"
+                "wa.me/56983073328"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATIONS - ÉTAT />*_",
-                "▢ *Prop. :* Bruno Sobrino",
-                "▢ *WA :* +51992621601",
+                "▢ *Prop. :* KillzN",
+                "▢ *WA :* +56983073328",
                 "▢ *PayPal :* paypal.me/TheShadowBrokers133",
                 "▢ *Ping :*",
                 "▢ *Temps d'activité :*",
@@ -2380,10 +2380,10 @@
             "texto1": [
                 "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙼 𝙰𝙻𝙶𝚄𝙽𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙳𝙾 𝚂𝙷𝙰𝙳𝙾𝚆 𝙱𝚁𝙾𝙺𝙴𝚁𝚂 - 𝚃𝙴𝙰𝙼 𝙿𝙰𝚁𝙰 𝙲𝙾𝙽𝚅𝙸𝚅𝙸𝚁 𝙲𝙾𝙼 𝙻𝙰 𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 :D*",
                 "*➤ Groupes officiels du Bot :*",
-                "*1.-* https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
-                "*2.-* https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
-                "*3.-* https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
-                "*4.-* https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+                "*1.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*2.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*3.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*4.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
                 "*5.-* https://chat.whatsapp.com/DLrFJUPxEQ2IrOm7sJWJ0k"
             ],
             "texto2": "「  Bonjour le Monde 」",
@@ -2392,7 +2392,7 @@
         "info_host": {
             "texto1": [
                 "*🚀 -----[ Cafirexos]------- 🚀*",
-                "*Bonjour à tous 👋🏻 Nous sommes ravis d'annoncer notre nouvelle collaboration avec Cafirexos 🤖 Désormais, vous pouvez avoir votre propre bot THE-MYSTIC-BOT-MD sur votre plateforme en ligne, permettant à vos bots d'être actifs 24/7. 💻*",
+                "*Bonjour à tous 👋🏻 Nous sommes ravis d'annoncer notre nouvelle collaboration avec Cafirexos 🤖 Désormais, vous pouvez avoir votre propre bot THE-KillzN-BOT-MD sur votre plateforme en ligne, permettant à vos bots d'être actifs 24/7. 💻*",
                 "_L'installation de ces versions a été approuvée et est déjà pleinement opérationnelle. De plus, *les serveurs sont entièrement compatibles, vous permettant de choisir le type de démarrage du bot selon vos besoins.* Préparez-vous à une expérience utilisateur fluide et passionnante !_ ",
                 "*Page officielle :*",
                 "https://www.cafirexos.com/",
@@ -2401,7 +2401,7 @@
                 "*Panneau :*",
                 "https://panel.cafirexos.com",
                 "*WhatsApp*",
-                "https://wa.me/51992621601",
+                "https://wa.me/56983073328",
                 "*E-mail*",
                 "contacto@cafirexos.com",
                 "*Chaîne WhatsApp*",
@@ -2412,7 +2412,7 @@
             "texto2": "Le meilleur hébergement 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ INSTALLATION DU BOT PRINCIPAL*\n> Tutoriel : https://youtu.be/eC9TfKICpcY\n> Page Officielle : https://boxmineworld.com\n> Tableau de Bord : https://dash.boxmineworld.com/home\n> Panneau : https://panel.boxmineworld.com\n> Support : https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALLATION DU BOT TERTIAIRE\n> Tutoriel : https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMMANDES D'INSTALLATION*\n> Commandes :\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY.git && cd Readz Aleizn\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVATION EN CAS D'ARRÊT SUR TERMUX ✔️\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd Readz Aleizn\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENIR UN AUTRE CODE QR SUR TERMUX 👽\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd Readz Aleizn\n> rm -rf MysticSession\n> npm start",
+            "texto1": "*—◉ INSTALLATION DU BOT PRINCIPAL*\n> Tutoriel : https://youtu.be/eC9TfKICpcY\n> Page Officielle : https://boxmineworld.com\n> Tableau de Bord : https://dash.boxmineworld.com/home\n> Panneau : https://panel.boxmineworld.com\n> Support : https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALLATION DU BOT TERTIAIRE\n> Tutoriel : https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMMANDES D'INSTALLATION*\n> Commandes :\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC.git && cd KillzN\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVATION EN CAS D'ARRÊT SUR TERMUX ✔️\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd KillzN\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENIR UN AUTRE CODE QR SUR TERMUX 👽\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd KillzN\n> rm -rf KillzNSession\n> npm start",
             "texto2": "Le meilleur Bot de WhatsApp"
         },
         "info_listprem": {
@@ -2447,12 +2447,12 @@
             "texto1": [
                 "_*< INFORMATIONS - DÉPÔT />*_",
                 "▢ *Nom :*",
-                "Readz Aleizn",
+                "KillzN",
                 "▢ *Visiteurs :*",
                 "▢ *Taille :*",
                 "▢ *Dernière mise à jour :*",
                 "▢ *URL :*",
-                "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+                "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
                 "Forks ·",
                 "Étoiles ·",
                 "Problèmes\n\n",
@@ -2487,7 +2487,7 @@
             "texto1": "*VOUS ÊTES CHAUD 🥵🔥*"
         },
         "maker_logos": {
-            "texto1": "*[❗ℹ️] VOULEZ-VOUS CRÉER UN LOGO ?*\n—◉ _#logo (effet) (texte)_\n*EXEMPLE :*\n—◉ _#logo 3d-deep-sea-metal Mystic_\n\n*[❗] VEUILLEZ FOURNIR LE TEXTE SUR LEQUEL LE LOGO SERA APPLIQUÉ :*\n—◉ _#logo (effet) (texte1|texte2)_\n*EXEMPLE :*\n—◉ _#logo Wolf-Logo-Galaxy Mystic|Bot_\n\n*<LISTE DES EFFETS/>*\n\n° 📝 #logo ",
+            "texto1": "*[❗ℹ️] VOULEZ-VOUS CRÉER UN LOGO ?*\n—◉ _#logo (effet) (texte)_\n*EXEMPLE :*\n—◉ _#logo 3d-deep-sea-metal KillzN_\n\n*[❗] VEUILLEZ FOURNIR LE TEXTE SUR LEQUEL LE LOGO SERA APPLIQUÉ :*\n—◉ _#logo (effet) (texte1|texte2)_\n*EXEMPLE :*\n—◉ _#logo Wolf-Logo-Galaxy KillzN|Bot_\n\n*<LISTE DES EFFETS/>*\n\n° 📝 #logo ",
             "texto2": [
                 "*[❗ℹ️] L'EFFET",
                 "N'EST PAS DANS LA LISTE DES EFFETS*"
@@ -3055,7 +3055,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamants* 💎",
                 "Jetons* 🪙",
-                "MysticCoins* 👾",
+                "KillzNCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3178,7 +3178,7 @@
                 "*—◉ Continuez à explorer et à accomplir des missions pour atteindre de nouveaux sommets dans la Guilde des Aventuriers. Continuez à interagir avec le Bot !*"
             ]
         },
-        "rpg_minar_mysticcoins": {
+        "rpg_minar_KillzNcoins": {
             "texto1": [
                 "Quel pro 😎 vous avez miné",
                 "🌟✨ Génial !! Vous recevez",
@@ -3517,7 +3517,7 @@
             "texto11": [
                 "[ ⚠️ ] Avertissement",
                 "[ ⚠️ ] Avertissement",
-                "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY"
+                "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC"
             ]
         },
         "participantsUpdate": {

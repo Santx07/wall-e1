@@ -1,5 +1,5 @@
-// Codigo hecho para Readz Aleizn - MD por https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
-// By @BrunoSobrino
+// Codigo hecho para KillzN - MD por https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+// By @KillzN
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;
 

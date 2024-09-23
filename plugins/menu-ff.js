@@ -25,7 +25,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = ` *⌜ ＭＥＮＵ|ＶＥＲＳＵＳ ⌟*
+    const str = ` *⌜ 𝗠𝗘𝗡𝗨 | 𝗩𝗘𝗥𝗦𝗨𝗦 ⌟*
 
 ━━━━━━━━━━━━━━━━━━━
 ☁️ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗦𝗨𝗥 ( 𝗩𝗜𝗩𝗜𝗗𝗢 )
@@ -75,7 +75,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     conn.reply(m.chat, tradutor.texto1[3], m);
   }
 };
-handler.command = /^(menuff|menuff)$/i;
+handler.command = /^(menuff|menuff|killznvs)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;

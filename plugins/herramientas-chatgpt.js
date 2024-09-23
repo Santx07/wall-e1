@@ -7,7 +7,7 @@
 /*     ◉ Número: wa.me/51993966345                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ BrunoSobrino (https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY)  */
+/*     ◉ KillzN (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/
@@ -67,5 +67,5 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
    }
  }
 };
-handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|Mystic|MysticBot)$/i;
+handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|KillzN|KillzNBot)$/i;
 export default handler;

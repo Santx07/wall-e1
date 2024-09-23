@@ -26,9 +26,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = ` ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
-┃⭐ Creador : Readz Aleizn
-┃📞 Wa.me/51992621601
-┃https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+┃⭐ Creador : KillzN
+┃📞 Wa.me/56983073328
+┃https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 
@@ -55,46 +55,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *┃➤  ${usedPrefix}kickfantasmas*
   ╰━━━━━━━━━━━━
 
- ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
- *┃➤ 🗺️ ${usedPrefix}menuff*
- *┃➤ 🗺️ ${usedPrefix}bermuda*
- *┃➤ 🗺️ ${usedPrefix}kalahari*
- *┃➤ 🗺️ ${usedPrefix}alpes*
- *┃➤ 🗺️ ${usedPrefix}purgatorio*
- *┃➤ 🗺️ ${usedPrefix}nexterra*
- *┃➤ 📋 ${usedPrefix}agendasemanal*
-  ╰━━━━━━━━━━━━
-
-  ╭━〔 ⚔️ *BUSCAR VS PLANTILLAS* 🔱 〕
- *┃➤ 🌀 ${usedPrefix}buscarvsmasc*
- *┃➤ ⚔️ ${usedPrefix}bsmsac*
- *┃➤ ⚓ ${usedPrefix}buscarvsfem*
- *┃➤ ✨ ${usedPrefix}bsfem*
- *┃➤ 📍 ${usedPrefix}buscarvsmixto*
- *┃➤ 👁️‍🗨️ ${usedPrefix}bsmixto*
-  ╰━━━━━━━━━━━━
-
- *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
- *║* 🎐_${usedPrefix}SpamApk / WhatsApp_
- *║* 🎐_${usedPrefix}SpamComu / Comunidades_
- *║* 🎐 _${usedPrefix}Spam2_
- *║* 🎐 _${usedPrefix}rcursosdzn_
- *║* 🎐 _${usedPrefix}drivesdzn_
- *║* 🎐 _${usedPrefix}dzn_
- *║* 🎐 _${usedPrefix}ApkEdits_
- *║* 🎐 _${usedPrefix}DriveEdits_
- *╚══ ≪ •❈• ≫ ══╝*
-
- ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
- *┃➤ 💴 ${usedPrefix}plataformas*
- *┃➤ 💳 ${usedPrefix}drops*
- *┃➤ 💳 ${usedPrefix}streaming*
- *┃➤ 💳 ${usedPrefix}cccompras*
- *┃➤ 💰 ${usedPrefix}cursovip*
- *┃➤ 💰 ${usedPrefix}cc2*
- *┃➤ 💸 ${usedPrefix}cursoplataformas*
-  ╰━━━━━━━━━━━
-
  *╔══ ≪ STICKERS X FILTROS ≫ ══╗*
  *║* 🎐 _${usedPrefix}sticker | s *imagen o video*_
  *║* 🎐 _${usedPrefix}sticker | s *url de tipo jpg*_
@@ -115,7 +75,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *║* 🎐 _${usedPrefix}stickerfilter *efecto : responder a imagen*_
  *║* 🎐 _${usedPrefix}cs *:* cs2_
  *╚══ ≪ •❈• ≫ ══╝*
-
 
  ╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕
 *┃➤ 🕹️ ${usedPrefix}mates*
@@ -166,7 +125,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *┃➤ 🕹️ ${usedPrefix}kchero*
  ╰━━━━━━━━━━━━
 
-
  ╭━〔 🎭 *IMAGENES* 🎭 〕
 *┃➤ 🖍️ ${usedPrefix}goku*
 *┃➤ 🖍️ ${usedPrefix}vegeta*
@@ -178,7 +136,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *┃➤ 🖍️ ${usedPrefix}charmander*
  ╰━━━━━━━━━━━━
  
-
  ╭━〔 🈴 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 🈴 〕
 *┃➤ 📥 ${usedPrefix}play*
 *┃➤ 📥 ${usedPrefix}play.1*
@@ -201,7 +158,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *┃➤ 📥 ${usedPrefix}igstory*
  ╰━━━━━━━━━━━━
 
-
 *╭━〔 👀 𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 👀 〕*
 *┃➤ 📍 ${usedPrefix}toimg*
 *┃➤ 📍 ${usedPrefix}tomp3*
@@ -209,7 +165,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *┃➤ 📍 ${usedPrefix}tovideo*
 *┃➤ 📍 ${usedPrefix}tts*
  ╰━━━━━━━━━━━━
-
+ 
 *╭━〔 ♓ 𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒 ♓ 〕*
 *┃➤ ❄️ ${usedPrefix}mensajefalso*
 *┃➤ ❄️ ${usedPrefix}logos*

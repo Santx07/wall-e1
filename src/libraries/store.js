@@ -13,8 +13,8 @@
  * see more https://github.com/Skidy89/baileys?tab=readme-ov-
  *
  * Contribution:
- * Ciphertext error fix and additional improvements by @BrunoSobrino
- * See: https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+ * Ciphertext error fix and additional improvements by @KillzN
+ * See: https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
  */
 const { BufferJSON, proto, isJidBroadcast, WAMessageStubType, updateMessageWithReceipt, updateMessageWithReaction, jidNormalizedUser } = (await import('baileys')).default;
 const TIME_TO_DATA_STALE = 5 * 60 * 1000;

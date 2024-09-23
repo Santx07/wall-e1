@@ -1,36 +1,36 @@
 <p align="center">
- <img width="180px" src="https://i.ibb.co/Qn1W6cP/image.png" align="center"/>
- <h2 align="center">Readz Aleizn</h2>
+ <img width="180px" src="https://i.ibb.co/93QWPfN/KILLZN-min.png" align="center"/>
+ <h2 align="center">KillzN</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/BrunoSobrino/Readz Aleizn?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/KillzN/Perfect1?style=for-the-badge" />
   </a>
-  <a href="https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/BrunoSobrino/Readz Aleizn?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/KillzN/Perfect1?style=for-the-badge" />
   </a>
-  <a href="https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/pulls">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/BrunoSobrino/Readz Aleizn?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC/pulls">
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/KillzN/Perfect1?style=for-the-badge" />
   </a>
-  <a href="https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/commits">
-    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/BrunoSobrino/Readz Aleizn?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC/commits">
+    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/KillzN/Perfect1?style=for-the-badge" />
   </a>
-  <a href="https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/BrunoSobrino/Readz Aleizn?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/KillzN/Perfect1?style=for-the-badge" />
   </a>
-  <a href="https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/fork">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/BrunoSobrino/Readz Aleizn?style=for-the-badge" />
+  <a href="https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC/fork">
+    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/KillzN/Perfect1?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+5219992843881&text=&text=.menu">Demo</a>
   ·
-  <a href="https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/issues/new?assignees=&labels=Bug">Reportar un Bug</a>
+  <a href="https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC/issues/new?assignees=&labels=Bug">Reportar un Bug</a>
   ·
-  <a href="https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/issues/new?assignees=&labels=Enhancement">Solicitar una Característica</a>
+  <a href="https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC/issues/new?assignees=&labels=Enhancement">Solicitar una Característica</a>
 </p>
 
 <!-- <p align="center">
@@ -59,7 +59,7 @@
 > Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
 
 > [!IMPORTANT]\
-> **No** se asegura que este **proyecto siga funcionando al 100% debido** a cuestiones de tiempo personales de @BrunoSobrino, por lo cual **el proyecto esta en manos de colaboradores** y usuarios que deseen aportar actualizaciones.
+> **No** se asegura que este **proyecto siga funcionando al 100% debido** a cuestiones de tiempo personales de @KillzN, por lo cual **el proyecto esta en manos de colaboradores** y usuarios que deseen aportar actualizaciones.
 
 
 # Opciones de despliegue
@@ -105,18 +105,18 @@
 En esta sección encontrarás **botones de despliegue** que te permitirán implementar el proyecto en distintos entornos con un solo clic. Este proceso es **automático** y no requiere configuraciones manuales adicionales. Simplemente selecciona la plataforma deseada y haz clic en el botón correspondiente para **desplegar** tu proyecto de manera rápida y sencilla.
 
 [![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=514876515&ref=master&geo=EuropeWest)
-[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/BrunoSobrino/Readz Aleizn)
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=Readz Aleizn&repository=https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY)
-[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/BrunoSobrino/Readz Aleizn)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY)
-<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY) -->
-<a href="https://brunosobrino.github.io/Readz Aleizn/">
+[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/KillzN/KillzN)
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)
+[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=KillzN&repository=https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)
+[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/KillzN/KillzN)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)
+<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC) -->
+<a href="https://KillzN.github.io/KillzN/">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Termux">
 </a>
-<a href="https://brunosobrino.github.io/Readz Aleizn/">
+<a href="https://KillzN.github.io/KillzN/">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <a href="https://brunosobrino.github.io/Readz Aleizn/">
+  <a href="https://KillzN.github.io/KillzN/">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 
 # Soporte y Comunidad
@@ -129,7 +129,7 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 | RRSS | Tipo | Idioma | Enlace |
 | --- | --- | --- |--- |
-| WhatsApp | Canal | Español | [¡Únete aquí!](https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY) |
+| WhatsApp | Canal | Español | [¡Únete aquí!](https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC) |
 | WhatsApp | Grupo | Español | [¡Únete aquí!](https://chat.whatsapp.com/Daa3Fe4A9JeFpRI2QtBS4s) |
 | WhatsApp | Group | English | [¡Join here!](https://chat.whatsapp.com/HTatrQokqODKx9eem0CKuY) |
 | WhatsApp | Grupo | Português | [¡Junte-se aqui!](https://chat.whatsapp.com/J8tFq87Ia0jEnx20NvCQxN) |
@@ -140,8 +140,8 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. Su apoyo ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BrunoSobrino/Readz Aleizn" /> 
+<a href="https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KillzN/KillzN" /> 
 </a>
 
 ## Agradecimientos
@@ -152,6 +152,6 @@ Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. 
 
 ## Desarollador Principal
 
-<a href="https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY">
-  <img src="https://i.ibb.co/Qn1W6cP/image.png" width="180px"/>
+<a href="https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC">
+  <img src="https://i.ibb.co/93QWPfN/KILLZN-min.png" width="180px"/>
 </a>
