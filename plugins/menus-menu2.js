@@ -124,17 +124,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *┃➤ 🕹️ ${usedPrefix}kchero*
 *┃➤ 🕹️ ${usedPrefix}kchero*
  ╰━━━━━━━━━━━━
-
- ╭━〔 🎭 *IMAGENES* 🎭 〕
-*┃➤ 🖍️ ${usedPrefix}goku*
-*┃➤ 🖍️ ${usedPrefix}vegeta*
-*┃➤ 🖍️ ${usedPrefix}lora*
-*┃➤ 🖍️ ${usedPrefix}cr7*
-*┃➤ 🖍️ ${usedPrefix}spiderman*
-*┃➤ 🖍️ ${usedPrefix}batman*
-*┃➤ 🖍️ ${usedPrefix}hellokitty*
-*┃➤ 🖍️ ${usedPrefix}charmander*
- ╰━━━━━━━━━━━━
  
  ╭━〔 🈴 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 🈴 〕
 *┃➤ 📥 ${usedPrefix}play*
