@@ -55,16 +55,16 @@ async function start(file) {
   if (isRunning) return;
   isRunning = true;
 
-  say('The 𝐊𝐈𝐋𝐋𝐙𝐍\nBot', {
+  say('KillzN', {
     font: 'chrome',
     align: 'center',
     gradient: ['red', 'magenta'],
   });
 
-  say(`Bot creado por 𝐊𝐈𝐋𝐋𝐙𝐍`, {
+  say(`@ineffable.mvrco!`, {
     font: 'console',
     align: 'center',
-    gradient: ['red', 'magenta'],
+    gradient: ['red', 'magenta'], 
   });
 
   verificarOCrearCarpetaAuth();
