@@ -6,7 +6,7 @@ import moment from 'moment-timezone';
 
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `𝐊𝐈𝐋𝐋𝐙𝐍Session`;
+global.authFile = `LALITOSession`;
 
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
@@ -16,56 +16,56 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', false],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true], 
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true], 
-  ['56983073328', '👑 𝐊𝐈𝐋𝐋𝐙𝐍 - Creador 👑', true],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328']
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496', '👑 LALITO - Creador 👑', false],
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496', '👑 LALITO - Creador 👑', true], 
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496', '👑 LALITO - Creador 👑', true], 
+  ['50373773496', '👑 LALITO - Creador 👑', true],
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'], 
+  ['50373773496'],  
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'], 
+  ['50373773496'], 
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'], 
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496'],
+  ['50373773496']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['50373773496'];
+global.prems = ['50373773496'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
 global.packname = 'Sticker';
-global.author = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
-global.wm = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
-global.titulowm = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
-global.titulowm2 = `https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC`
-global.igfg = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
+global.author = 'https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO';
+global.wm = 'https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO';
+global.titulowm = 'https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO';
+global.titulowm2 = `https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO`
+global.igfg = 'https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 /*global.imagen1 = fs.createReadStream('./src/assets/images/menu/languages/es/menu.png');
@@ -91,16 +91,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nhttps://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC`;
-global.gt = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
-global.mysticbot = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
+global.wm2 = `${dia} ${fecha}\nhttps://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO`;
+global.gt = 'https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO';
+global.mysticbot = 'https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
-global.mysticbot = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
+global.md = 'https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO';
+global.mysticbot = 'https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '56983073328';
+global.nomorown = '50373773496';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

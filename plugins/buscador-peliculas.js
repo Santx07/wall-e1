@@ -1,4 +1,4 @@
-/* Creado por KillzN (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC) */
+/* Creado por Santx07 (https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO) */
 import fetch from 'node-fetch';
 import axios from 'axios';
 

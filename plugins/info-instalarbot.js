@@ -11,22 +11,22 @@ const handler = async (m, {conn, usedPrefix}) => {
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = `${tradutor.texto1}`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC`},
+    'document': {url: `https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO`},
     'mimetype': `application/${document}`,
-    'fileName': `「  𝐊𝐈𝐋𝐋𝐙𝐍 」`,
+    'fileName': `「  LALITO 」`,
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC',
+        'mediaUrl': 'https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC'}},
+        'sourceUrl': 'https://chat.whatsapp.com/JcyRxqoO7w1860QM9zUOQO'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
